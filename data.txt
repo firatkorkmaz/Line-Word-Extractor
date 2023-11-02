@@ -1,0 +1,13 @@
+def-ghi .
+mno;xyz-
+abc def;
+def-ghi
+abc def
+abc
+jkl	mno-
+abc	def
+  jkl	mno-
+	abc def 
+	mno;xyz-	
+abc def	
+	abc
